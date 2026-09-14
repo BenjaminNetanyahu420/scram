@@ -2,7 +2,7 @@
 # services:
 #   ultraviolet:
 #     image: diffusehyperion/ultraviolet
-#     container_name: scramjet
+#     container_name: scram
 #     restart: unless-stopped
 #     ports:
 #       - "8080:8080"
